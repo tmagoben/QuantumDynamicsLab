@@ -18,4 +18,4 @@ python examples/two_state_wavepacket.py
 pytest -q
 ```
 
-Atomic units and $\hbar=1$ are used.
+Atomic units with $\hbar = 1$ are used throughout.
