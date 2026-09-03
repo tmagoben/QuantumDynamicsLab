@@ -4,8 +4,8 @@ The FFT split operator implements second-order Strang splitting,
 
 $$
 e^{-iH\Delta t}=
-e^{-iT\Delta t/2}\,
-e^{-iV\Delta t}\,
+e^{-iT\Delta t/2}\
+e^{-iV\Delta t}\
 e^{-iT\Delta t/2}
 +
 \mathcal{O}(\Delta t^3),
